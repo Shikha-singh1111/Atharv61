@@ -1,0 +1,33 @@
+img {
+    border-radius: 50px;
+    width:100px;
+    height:40px;
+
+}
+
+body {
+    text-align: center;
+}
+
+#welcome {
+    background: linear-gradient(#80e8da 0%, #884df7 100%)
+}
+
+#bio {
+    background: linear-gradient(#678cf0 0%, #9c37fa 100%)
+}
+
+.menu {
+    list-style: none font-size:15px;
+    font-family: cursive;
+    float: left;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+
+}
+
+.links:mouseover {
+    background-color: gray;
+}
